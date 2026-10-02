@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://cdn.tailwindcss.com"></script>
+<link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@600;700&family=Inter:wght@700;900&display=swap" rel="stylesheet">
+<title>Dorshop BD - VVVIP PREMIUM</title>
+<style>body{font-family:'Inter','Hind Siliguri',sans-serif}</style>
+</head>
+<body class="bg-[#080A08] text-white">
+
+<!-- HEADER -->
+<header class="bg-[#101010] border-b border-[#D4AF37]/20 p-3 flex justify-between items-center sticky top-0 z-50">
+<div class="flex items-center gap-2"><span class="text-[#D4AF37] font-black text-xl">👑 Dorshop BD</span><span class="bg-[#A3FF12] text-black text-[10px] px-2 py-0.5 rounded-full font-bold">VVVIP • PREMIUM</span></div>
+<div class="text-[10px] hidden md:block text-gray-400">Home | Categories | Offers | Track Order</div>
+<div class="flex gap-2"><span class="bg-[#1A1A1A] px-3 py-1 rounded-full text-xs">🔍 Search...</span><span>🛒3</span></div>
+</header>
+
+<!-- HERO - MEGA SALE -->
+<section class="bg-black relative p-6 md:p-10 flex flex-col md:flex-row items-center justify-between overflow-hidden">
+<div>
+<h1 class="text-4xl md:text-6xl font-black leading-tight"><span class="text-[#A3FF12]">Mega Sale</span><span class="text-[#D4AF37]">-মহা সেল</span></h1>
+<p class="mt-2 font-bold">Up to 70% OFF | ১০-২০ অক্টোবর - Limited Time</p>
+<p class="text-xs text-gray-400 mt-1">Bangladesh's Next Big Online Shopping Platform</p>
+<div class="flex gap-3 mt-5">
+<button class="bg-[#A3FF12] text-black font-black px-6 py-3 rounded-xl">Shop Now এখনই কিনুন ></button>
+<button class="border border-[#D4AF37] px-6 py-3 rounded-xl text-[#D4AF37] text-sm">Join VVIP 👑 VVIP সদস্য হন</button>
+</div>
+<p class="text-[10px] text-gray-400 mt-2">VVIP Members get Extra 5% Cashback with bKash & Nagad</p>
+</div>
+<div class="mt-6 md:mt-0 text-6xl">📱⌚🎧💄</div>
+</section>
+
+<!-- TRUST BAR -->
+<div class="bg-[#151515] flex justify-around py-3 text-[10px] text-center border-y border-white/10">
+<span>⭐ Trustpilot 4.7 • 12,340+ Reviews</span><span>🚚 Pathao Courier Integrated</span><span>🛡️ 100% Authentic</span><span>🔒 Secure Payments</span>
+</div>
+
+<!-- CATEGORIES -->
+<div class="p-4">
+<h2 class="text-center font-bold text-xl mb-4">Shop by Category ক্যাটাগরি থেকে কিনুন</h2>
+<div class="grid grid-cols-3 md:grid-cols-6 gap-3">
+<div class="border border-[#A3FF12] rounded-xl p-4 text-center"><div class="text-2xl">👕</div><p class="text-xs text-[#A3FF12]">Fashion<br>ফ্যাশন</p></div>
+<div class="border border-[#D4AF37]/50 rounded-xl p-4 text-center"><div class="text-2xl">💻</div><p class="text-xs">Electronics</p></div>
+<div class="border border-[#D4AF37]/50 rounded-xl p-4 text-center"><div class="text-2xl">💄</div><p class="text-xs">Beauty</p></div>
+<div class="border border-[#D4AF37]/50 rounded-xl p-4 text-center"><div class="text-2xl">🏠</div><p class="text-xs">Home & Living</p></div>
+<div class="border border-[#D4AF37]/50 rounded-xl p-4 text-center"><div class="text-2xl">⚽</div><p class="text-xs">Sports</p></div>
+<div class="border border-[#D4AF37]/50 rounded-xl p-4 text-center"><div class="text-2xl">🛒</div><p class="text-xs">Groceries</p></div>
+</div>
+</div>
+
+<!-- PRODUCTS -->
+<div class="p-4 grid grid-cols-2 md:grid-cols-4 gap-3">
+<div class="bg-[#121212] border border-white/10 rounded-xl p-3"><span class="bg-[#D4AF37] text-black text-[9px] px-2 py-0.5 rounded">PREMIUM</span><p class="mt-2 font-bold text-sm">Apple AirPods Pro (2nd Gen)</p><p class="text-[#D4AF37] font-black">৳18,990</p><a href="https://www.facebook.com/profile.php?id=61592040897692" class="text-[10px] underline text-[#D4AF37]">Proof Dekhun →</a></div>
+<div class="bg-[#121212] border border-white/10 rounded-xl p-3"><span class="bg-[#A3FF
